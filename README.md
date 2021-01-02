@@ -24,7 +24,7 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual c
 ☆ java jre > [Here]( https://raw.githubusercontent.com/wh-r47/java/master/jre-whbot.exe " JAVA JRE")
 
 
-# ➰ LICENSE KEY
+# 🔑 LICENSE KEY
 
 Price : $60/-
 
