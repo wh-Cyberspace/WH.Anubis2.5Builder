@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/wh-Cyberspace/WH.Anubis2.5Builder/blob/main/img/header1.png" height="170"><br>
   
-<h1>  WH Anubis2.5 Builder</h1> 
+<h1 align="center">  WH Anubis2.5 Builder</h1> 
 
 <br>
 </p>
