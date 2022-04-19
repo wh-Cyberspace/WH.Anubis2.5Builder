@@ -33,7 +33,7 @@ Anubis 2.5 Builder Demo video  [Here ]( https://youtu.be/oHmC8I0RX50 "Demo Video
 
 # 🔑 LICENSE / Activation KEY
 
-Price : $60/-
+
 
 ☆ Buy LICENSE Key IN  [Here ](https://sellix.io/product/5ff0b54e17442 "LICENSE")
 
